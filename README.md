@@ -66,13 +66,13 @@ Plan:
 Continue monitoring symptoms. Follow-up is recommended if pain persists or worsens.
 
 🧩 Project Structure
-physician_notetaker/
-│
-├── nlp.py               # NLP extraction, sentiment & intent analysis
-├── soap_generator.py    # SOAP note generation logic (bonus)
-├── app.py               # Optional runner script
-├── requirements.txt
-└── README.md
+physician_notetaker
+
+ nlp.py              
+ soap_generator.py    
+ app.py            
+ requirements.txt
+ README.md
 
 🚀 How to Run
 1️⃣ Install dependencies
