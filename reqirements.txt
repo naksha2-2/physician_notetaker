@@ -1,0 +1,14 @@
+reqirements.txt
+
+These are the expected modules for the code to run as its expectedto run
+
+spacy
+scispacy
+torch
+transformers
+numpy
+keybert
+
+
+
+
